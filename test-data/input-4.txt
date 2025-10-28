@@ -1,0 +1,3 @@
+# Egyszere lő kettőt, mindekettőben van töltény
+GT4500,10,0,10,0
+TORPEDO,ALL
