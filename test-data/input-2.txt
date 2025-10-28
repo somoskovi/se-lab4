@@ -1,0 +1,4 @@
+# 2 torpedó kilövése, csak az egyik tarólóban van torpedó, 0 faliure rate
+GT4500,10,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
